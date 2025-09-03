@@ -1,16 +1,11 @@
 # bmi_calc
 
-A new Flutter project.
+A BMI Calaculator app with a special icon and full responsive with all screens.
 
-## Getting Started
+## Home Screen
 
-This project is a starting point for a Flutter application.
+![screen_view](assets/images/home.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Results Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen_view](assets/images/result.png)
