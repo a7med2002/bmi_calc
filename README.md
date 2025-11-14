@@ -80,6 +80,14 @@ The app uses a small, modular Flutter structure that separates UI, logic, and he
 
 ---
 
+## 📦 Download APK  
+
+You can download the latest version of the **BMI Calculator App** APK directly from Google Drive:  
+
+👉 [**Download BMI Calculator App (APK)**](https://drive.google.com/file/d/1G3PCH4CAKz3z7-euRe7JZ-xKjvGM5_RS/view?usp=sharing)  
+
+---
+
 ## 🌐 Social Links
 
 - 👨‍💻 Developer: [ِAhmed Meqdad]
